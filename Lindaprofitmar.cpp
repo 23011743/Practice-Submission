@@ -27,7 +27,7 @@ int main() {
        
          double mech_Markup = (( totalcst_merch + employee_sal + yeraly_rent + electricty_cost) +(newprofit)) / totalcst_merch ;
 
-         cout << "The amount of the mechandise marked up is" << mech_Markup ;
+         cout << " The amount of the mechandise marked up is " << mech_Markup << " % " ;
 
          return 0;   
 
